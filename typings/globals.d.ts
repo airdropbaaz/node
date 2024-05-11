@@ -15,7 +15,6 @@ import {URLBinding} from "./internalBinding/url";
 import {UtilBinding} from "./internalBinding/util";
 import {WorkerBinding} from "./internalBinding/worker";
 import {ModulesBinding} from "./internalBinding/modules";
-
 declare type TypedArray =
   | Uint8Array
   | Uint8ClampedArray
